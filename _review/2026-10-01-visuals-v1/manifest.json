@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "R1_a",
+    "dosya": "R1_ritim_a.webp",
+    "hedef_boyut": [
+      1600,
+      900
+    ],
+    "kaynak_boyut": [
+      1280,
+      720
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 900
+      },
+      "G2": {
+        "ok": true,
+        "median": 18.38,
+        "max": 27.49
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.8674
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 6.59
+      },
+      "G5": {
+        "ok": true,
+        "hue": 32,
+        "sat": 0.137
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 31.13
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 27206,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 1,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless warm cream (#F1E2CD) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A slim mid-rise residential tower maquette in matte cream plaster with a perfectly regular grid of recessed square windows on both visible faces, one diagonal band of windows accented in matte terracotta, and five tiny brushed-brass pins standing in a row along the front edge of the plinth. Calm, rhythmic, symmetrical. Wide 16:9 composition, subject centered, generous calm space on both sides. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners."
+  },
+  {
+    "id": "R1_b",
+    "dosya": "R1_ritim_b.webp",
+    "hedef_boyut": [
+      1600,
+      900
+    ],
+    "kaynak_boyut": [
+      1280,
+      720
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 900
+      },
+      "G2": {
+        "ok": true,
+        "median": 15.63,
+        "max": 28.32
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.8774
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 4.2
+      },
+      "G5": {
+        "ok": true,
+        "hue": 34.5,
+        "sat": 0.128
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 33.12
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 30618,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 2,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless warm cream (#F1E2CD) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A slim mid-rise residential tower maquette in matte cream plaster with a perfectly regular grid of recessed square windows on both visible faces, one diagonal band of windows accented in matte terracotta, and five tiny brushed-brass pins standing in a row along the front edge of the plinth. Calm, rhythmic, symmetrical. Wide 16:9 composition, subject centered, generous calm space on both sides. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners. Important: the backdrop must be a clean seamless warm cream (#F1E2CD) with an even light tone, no dark vignette, no gray cast, and the whole subject must sit fully inside the frame with generous margin."
+  },
+  {
+    "id": "R1_c",
+    "dosya": "R1_ritim_c.webp",
+    "hedef_boyut": [
+      1600,
+      900
+    ],
+    "kaynak_boyut": [
+      1280,
+      720
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 900
+      },
+      "G2": {
+        "ok": true,
+        "median": 16.04,
+        "max": 24.58
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.8636
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 5.51
+      },
+      "G5": {
+        "ok": true,
+        "hue": 33.9,
+        "sat": 0.162
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 34.1
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 31682,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 2,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless warm cream (#F1E2CD) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A slim mid-rise residential tower maquette in matte cream plaster with a perfectly regular grid of recessed square windows on both visible faces, one diagonal band of windows accented in matte terracotta, and five tiny brushed-brass pins standing in a row along the front edge of the plinth. Calm, rhythmic, symmetrical. Wide 16:9 composition, subject centered, generous calm space on both sides. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners. Important: the backdrop must be a clean seamless warm cream (#F1E2CD) with an even light tone, no dark vignette, no gray cast, and the whole subject must sit fully inside the frame with generous margin."
+  },
+  {
+    "id": "S1_a",
+    "dosya": "S1_satis_a.webp",
+    "hedef_boyut": [
+      1600,
+      1200
+    ],
+    "kaynak_boyut": [
+      1152,
+      864
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 1200
+      },
+      "G2": {
+        "ok": true,
+        "median": 22.34,
+        "max": 33.04
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.8361
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 7.47
+      },
+      "G5": {
+        "ok": true,
+        "hue": 28.2,
+        "sat": 0.22
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 31.98
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 32432,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 2,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless soft peach (#F0D3C0) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A compact matte cream apartment block maquette with a flat roof and evenly spaced recessed windows, wrapped once around its middle by a wide matte terracotta ribbon tied in a neat bow on the front face, as if gifted, a sold-and-delivered feeling. 4:3 composition, subject centered, filling about half of the frame height, calm space around. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners. Important: the backdrop must be a clean seamless soft peach (#F0D3C0) with an even light tone, no dark vignette, no gray cast, and the whole subject must sit fully inside the frame with generous margin."
+  },
+  {
+    "id": "S1_b",
+    "dosya": "S1_satis_b.webp",
+    "hedef_boyut": [
+      1600,
+      1200
+    ],
+    "kaynak_boyut": [
+      1152,
+      864
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 1200
+      },
+      "G2": {
+        "ok": false,
+        "median": 36.59,
+        "max": 75.75
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.748
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 8.9
+      },
+      "G5": {
+        "ok": true,
+        "hue": 22.6,
+        "sat": 0.323
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 34.47
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 52850,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 3,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless soft peach (#F0D3C0) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A compact matte cream apartment block maquette with a flat roof and evenly spaced recessed windows, wrapped once around its middle by a wide matte terracotta ribbon tied in a neat bow on the front face, as if gifted, a sold-and-delivered feeling. 4:3 composition, subject centered, filling about half of the frame height, calm space around. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners. Important: the backdrop must be a clean seamless soft peach (#F0D3C0) with an even light tone, no dark vignette, no gray cast, and the whole subject must sit fully inside the frame with generous margin.",
+    "gate_failed": true,
+    "failed": [
+      "G2"
+    ]
+  },
+  {
+    "id": "K1_a",
+    "dosya": "K1_kiralama_a.webp",
+    "hedef_boyut": [
+      1600,
+      1200
+    ],
+    "kaynak_boyut": [
+      1152,
+      864
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 1200
+      },
+      "G2": {
+        "ok": true,
+        "median": 21.39,
+        "max": 35.52
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.8046
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 7.64
+      },
+      "G5": {
+        "ok": true,
+        "hue": 31.4,
+        "sat": 0.189
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 39.85
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 28970,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 2,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless warm sand (#E7D5BC) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A tall matte terracotta wall panel standing upright on the plinth, with one small brushed-brass hook at its upper center from which hangs a single simple modern brushed-brass key on a short brass ring with a small cream linen tag, the key hanging straight and calm. 4:3 composition, subject centered, filling about half of the frame height, calm space around. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners. Important: the backdrop must be a clean seamless warm sand (#E7D5BC) with an even light tone, no dark vignette, no gray cast, and the whole subject must sit fully inside the frame with generous margin."
+  },
+  {
+    "id": "K1_b",
+    "dosya": "K1_kiralama_b.webp",
+    "hedef_boyut": [
+      1600,
+      1200
+    ],
+    "kaynak_boyut": [
+      1152,
+      864
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 1200
+      },
+      "G2": {
+        "ok": true,
+        "median": 20.19,
+        "max": 39.41
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.7774
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 8.41
+      },
+      "G5": {
+        "ok": true,
+        "hue": 31.4,
+        "sat": 0.208
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 40.01
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 36428,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 2,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless warm sand (#E7D5BC) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A tall matte terracotta wall panel standing upright on the plinth, with one small brushed-brass hook at its upper center from which hangs a single simple modern brushed-brass key on a short brass ring with a small cream linen tag, the key hanging straight and calm. 4:3 composition, subject centered, filling about half of the frame height, calm space around. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners. Important: the backdrop must be a clean seamless warm sand (#E7D5BC) with an even light tone, no dark vignette, no gray cast, and the whole subject must sit fully inside the frame with generous margin."
+  },
+  {
+    "id": "I1_a",
+    "dosya": "I1_ikisi-de_a.webp",
+    "hedef_boyut": [
+      1600,
+      1200
+    ],
+    "kaynak_boyut": [
+      1152,
+      864
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 1200
+      },
+      "G2": {
+        "ok": true,
+        "median": 15.08,
+        "max": 26.11
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.8354
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 5.87
+      },
+      "G5": {
+        "ok": true,
+        "hue": 32.7,
+        "sat": 0.131
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 41.35
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 41950,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 1,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless warm cream (#F1E2CD) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: Two thick matte rings interlocked like chain links standing upright on the plinth, one matte terracotta and one matte cream, with one modern brushed-brass key threaded through both rings. 4:3 composition, subject centered, filling about half of the frame height, calm space around. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners."
+  },
+  {
+    "id": "I1_b",
+    "dosya": "I1_ikisi-de_b.webp",
+    "hedef_boyut": [
+      1600,
+      1200
+    ],
+    "kaynak_boyut": [
+      1152,
+      864
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 1200
+      },
+      "G2": {
+        "ok": false,
+        "median": 23.72,
+        "max": 61.17
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.8115
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 8.41
+      },
+      "G5": {
+        "ok": true,
+        "hue": 30.7,
+        "sat": 0.223
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 37.31
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 38056,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 3,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless warm cream (#F1E2CD) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: Two thick matte rings interlocked like chain links standing upright on the plinth, one matte terracotta and one matte cream, with one modern brushed-brass key threaded through both rings. 4:3 composition, subject centered, filling about half of the frame height, calm space around. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners. Important: the backdrop must be a clean seamless warm cream (#F1E2CD) with an even light tone, no dark vignette, no gray cast, and the whole subject must sit fully inside the frame with generous margin.",
+    "gate_failed": true,
+    "failed": [
+      "G2"
+    ]
+  },
+  {
+    "id": "D1_a",
+    "dosya": "D1_karar_a.webp",
+    "hedef_boyut": [
+      1600,
+      900
+    ],
+    "kaynak_boyut": [
+      1280,
+      720
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 900
+      },
+      "G2": {
+        "ok": true,
+        "median": 11.33,
+        "max": 37.24
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.8428
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 7.11
+      },
+      "G5": {
+        "ok": true,
+        "hue": 32.4,
+        "sat": 0.18
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 32.16
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 28094,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 1,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless warm cream (#F1E2CD) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A wide matte cream slab (the slab itself acts as the plinth, no extra plinth) with a shallow carved groove path that forks into two branches; on one branch rests a single brushed-brass sphere, and behind it along the path lies a trail of small matte terracotta dots showing where it has travelled; the other branch is empty. Wide 16:9 composition, subject centered, generous calm space on both sides. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners."
+  },
+  {
+    "id": "D1_b",
+    "dosya": "D1_karar_b.webp",
+    "hedef_boyut": [
+      1600,
+      900
+    ],
+    "kaynak_boyut": [
+      1280,
+      720
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 900
+      },
+      "G2": {
+        "ok": true,
+        "median": 9.82,
+        "max": 29.8
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.8592
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 5.48
+      },
+      "G5": {
+        "ok": true,
+        "hue": 32.4,
+        "sat": 0.154
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 26.71
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 17284,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 1,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless warm cream (#F1E2CD) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A wide matte cream slab (the slab itself acts as the plinth, no extra plinth) with a shallow carved groove path that forks into two branches; on one branch rests a single brushed-brass sphere, and behind it along the path lies a trail of small matte terracotta dots showing where it has travelled; the other branch is empty. Wide 16:9 composition, subject centered, generous calm space on both sides. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners."
+  },
+  {
+    "id": "G1_a",
+    "dosya": "G1_guvenlik_a.webp",
+    "hedef_boyut": [
+      1600,
+      1200
+    ],
+    "kaynak_boyut": [
+      1152,
+      864
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 1200
+      },
+      "G2": {
+        "ok": true,
+        "median": 23.83,
+        "max": 32.02
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.7922
+      },
+      "G4": {
+        "ok": false,
+        "edgeMax": 11.96
+      },
+      "G5": {
+        "ok": true,
+        "hue": 31.7,
+        "sat": 0.213
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 42.18
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 43248,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 3,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless warm sand (#E7D5BC) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A miniature vault-door maquette: a square block with a large round door in deep green (#0E5B4E) matte powder-coated finish, a brushed-brass spoked wheel handle in the center, four small brass hinge cylinders on the left edge, thin concentric ring detail around the door. Sturdy, calm, secure. 4:3 composition, subject centered, filling about half of the frame height, calm space around. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners. Important: the backdrop must be a clean seamless warm sand (#E7D5BC) with an even light tone, no dark vignette, no gray cast, and the whole subject must sit fully inside the frame with generous margin.",
+    "gate_failed": true,
+    "failed": [
+      "G4"
+    ]
+  },
+  {
+    "id": "G1_b",
+    "dosya": "G1_guvenlik_b.webp",
+    "hedef_boyut": [
+      1600,
+      1200
+    ],
+    "kaynak_boyut": [
+      1152,
+      864
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 1200
+      },
+      "G2": {
+        "ok": true,
+        "median": 21.48,
+        "max": 44.73
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.7965
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 8.14
+      },
+      "G5": {
+        "ok": true,
+        "hue": 32.4,
+        "sat": 0.137
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 51.29
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 42248,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 1,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless warm sand (#E7D5BC) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A miniature vault-door maquette: a square block with a large round door in deep green (#0E5B4E) matte powder-coated finish, a brushed-brass spoked wheel handle in the center, four small brass hinge cylinders on the left edge, thin concentric ring detail around the door. Sturdy, calm, secure. 4:3 composition, subject centered, filling about half of the frame height, calm space around. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners."
+  },
+  {
+    "id": "X1_a",
+    "dosya": "X1_excel_a.webp",
+    "hedef_boyut": [
+      1600,
+      900
+    ],
+    "kaynak_boyut": [
+      1280,
+      720
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 900
+      },
+      "G2": {
+        "ok": true,
+        "median": 16.55,
+        "max": 39.43
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.7894
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 5.74
+      },
+      "G5": {
+        "ok": true,
+        "hue": 32.4,
+        "sat": 0.173
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 33.21
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 44864,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 1,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless warm sand (#E7D5BC) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A flat grid of small square matte cream ceramic tiles arranged eight by five with thin even gaps like a spreadsheet (the tile field acts as the plinth); at the right end the tiles rise and stack into a small building of six thin slabs, the top slab accented in matte terracotta, a single brushed-brass pin marking the transition, cells becoming floors. Wide 16:9 composition, subject centered, generous calm space on both sides. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners."
+  },
+  {
+    "id": "X1_b",
+    "dosya": "X1_excel_b.webp",
+    "hedef_boyut": [
+      1600,
+      900
+    ],
+    "kaynak_boyut": [
+      1280,
+      720
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 900
+      },
+      "G2": {
+        "ok": true,
+        "median": 15.93,
+        "max": 36.16
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.8355
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 5.27
+      },
+      "G5": {
+        "ok": true,
+        "hue": 32,
+        "sat": 0.174
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 32.38
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 35158,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 3,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless warm sand (#E7D5BC) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A flat grid of small square matte cream ceramic tiles arranged eight by five with thin even gaps like a spreadsheet (the tile field acts as the plinth); at the right end the tiles rise and stack into a small building of six thin slabs, the top slab accented in matte terracotta, a single brushed-brass pin marking the transition, cells becoming floors. Wide 16:9 composition, subject centered, generous calm space on both sides. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners. Important: the backdrop must be a clean seamless warm sand (#E7D5BC) with an even light tone, no dark vignette, no gray cast, and the whole subject must sit fully inside the frame with generous margin."
+  },
+  {
+    "id": "U1_a",
+    "dosya": "U1_uluslararasi_a.webp",
+    "hedef_boyut": [
+      1600,
+      900
+    ],
+    "kaynak_boyut": [
+      1280,
+      720
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 900
+      },
+      "G2": {
+        "ok": true,
+        "median": 18.7,
+        "max": 31.97
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.8135
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 6.83
+      },
+      "G5": {
+        "ok": true,
+        "hue": 25.7,
+        "sat": 0.225
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 33.37
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 25362,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 2,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless soft peach (#F0D3C0) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A matte cream sphere resting in a shallow ring stand on the plinth, encircled by one thin brushed-brass meridian ring, with four small matte terracotta cone pins stuck into the sphere at different places. Wide 16:9 composition, subject centered, generous calm space on both sides. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners. Important: the backdrop must be a clean seamless soft peach (#F0D3C0) with an even light tone, no dark vignette, no gray cast, and the whole subject must sit fully inside the frame with generous margin."
+  },
+  {
+    "id": "U1_b",
+    "dosya": "U1_uluslararasi_b.webp",
+    "hedef_boyut": [
+      1600,
+      900
+    ],
+    "kaynak_boyut": [
+      1280,
+      720
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 900
+      },
+      "G2": {
+        "ok": true,
+        "median": 18.04,
+        "max": 34.91
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.8195
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 6.88
+      },
+      "G5": {
+        "ok": true,
+        "hue": 26.1,
+        "sat": 0.214
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 31.09
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 29910,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 2,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless soft peach (#F0D3C0) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A matte cream sphere resting in a shallow ring stand on the plinth, encircled by one thin brushed-brass meridian ring, with four small matte terracotta cone pins stuck into the sphere at different places. Wide 16:9 composition, subject centered, generous calm space on both sides. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners. Important: the backdrop must be a clean seamless soft peach (#F0D3C0) with an even light tone, no dark vignette, no gray cast, and the whole subject must sit fully inside the frame with generous margin."
+  },
+  {
+    "id": "Y1_a",
+    "dosya": "Y1_kapanis_a.webp",
+    "hedef_boyut": [
+      1600,
+      1200
+    ],
+    "kaynak_boyut": [
+      1152,
+      864
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 1200
+      },
+      "G2": {
+        "ok": false,
+        "median": 15.14,
+        "max": 46.74
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.7959
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 6.97
+      },
+      "G5": {
+        "ok": true,
+        "hue": 26.3,
+        "sat": 0.261
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 33.32
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 40844,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 3,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless soft peach (#F0D3C0) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A neat stack of five thin matte cream slabs of equal size on the plinth, the third slab slid slightly out of alignment toward the viewer, a single modern brushed-brass key lying on the top slab, a hint of order beginning to slip. 4:3 composition, subject centered, filling about half of the frame height, calm space around. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners. Important: the backdrop must be a clean seamless soft peach (#F0D3C0) with an even light tone, no dark vignette, no gray cast, and the whole subject must sit fully inside the frame with generous margin.",
+    "gate_failed": true,
+    "failed": [
+      "G2"
+    ]
+  },
+  {
+    "id": "Y1_b",
+    "dosya": "Y1_kapanis_b.webp",
+    "hedef_boyut": [
+      1600,
+      1200
+    ],
+    "kaynak_boyut": [
+      1152,
+      864
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 1200
+      },
+      "G2": {
+        "ok": false,
+        "median": 20.91,
+        "max": 54.7
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.792
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 7.27
+      },
+      "G5": {
+        "ok": true,
+        "hue": 27.2,
+        "sat": 0.264
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 32.18
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 36902,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 3,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless soft peach (#F0D3C0) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: A neat stack of five thin matte cream slabs of equal size on the plinth, the third slab slid slightly out of alignment toward the viewer, a single modern brushed-brass key lying on the top slab, a hint of order beginning to slip. 4:3 composition, subject centered, filling about half of the frame height, calm space around. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners. Important: the backdrop must be a clean seamless soft peach (#F0D3C0) with an even light tone, no dark vignette, no gray cast, and the whole subject must sit fully inside the frame with generous margin.",
+    "gate_failed": true,
+    "failed": [
+      "G2"
+    ]
+  },
+  {
+    "id": "C1_a",
+    "dosya": "C1_iletisim_a.webp",
+    "hedef_boyut": [
+      1600,
+      1200
+    ],
+    "kaynak_boyut": [
+      1152,
+      864
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 1200
+      },
+      "G2": {
+        "ok": true,
+        "median": 17.82,
+        "max": 33.64
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.8394
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 7.56
+      },
+      "G5": {
+        "ok": true,
+        "hue": 34.1,
+        "sat": 0.151
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 37.51
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 33894,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 3,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless warm cream (#F1E2CD) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: An upright matte cream envelope standing on the plinth with its flap open showing a matte terracotta inner lining, a small brushed-brass paper clip on its edge; no text or address on it. 4:3 composition, subject centered, filling about half of the frame height, calm space around. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners. Important: the backdrop must be a clean seamless warm cream (#F1E2CD) with an even light tone, no dark vignette, no gray cast, and the whole subject must sit fully inside the frame with generous margin."
+  },
+  {
+    "id": "C1_b",
+    "dosya": "C1_iletisim_b.webp",
+    "hedef_boyut": [
+      1600,
+      1200
+    ],
+    "kaynak_boyut": [
+      1152,
+      864
+    ],
+    "yukari_olceklendi": true,
+    "kapılar": {
+      "G1": {
+        "ok": true,
+        "w": 1600,
+        "h": 1200
+      },
+      "G2": {
+        "ok": true,
+        "median": 12.58,
+        "max": 28.78
+      },
+      "G3": {
+        "ok": true,
+        "yMean": 0.8623
+      },
+      "G4": {
+        "ok": true,
+        "edgeMax": 5.19
+      },
+      "G5": {
+        "ok": true,
+        "hue": 33.6,
+        "sat": 0.114
+      },
+      "G6": {
+        "ok": true,
+        "yStd": 35.54
+      },
+      "G7": {
+        "ok": true,
+        "bytes": 34662,
+        "quality": 85
+      }
+    },
+    "deneme_sayısı": 2,
+    "tohum": null,
+    "tam_prompt": "Modern matte studio still life in the style of a minimalist architectural maquette. Materials: matte cream ceramic and plaster, powder-coated metal, brushed brass, linen; no glass, no gloss, no reflections. Soft diffused daylight from the upper left, long soft translucent shadow falling to the lower right, no specular highlights. Three-quarter high camera angle (about 25 degrees above the subject), 50mm equivalent lens, mild perspective, subject sharp, background a seamless warm cream (#F1E2CD) studio sweep without horizon line. Palette limited to cream, sand, terracotta (#A8471F) and brushed brass (#C6A063) accents, at most three hues in the frame, accents under 15 percent of the frame. The subject fills about half of the frame with calm negative space around it and rests on a low plinth of three thin stacked slabs (cream, sand, and one with a terracotta edge). Calm, premium, editorial product photography, high resolution, clean edges. SUBJECT: An upright matte cream envelope standing on the plinth with its flap open showing a matte terracotta inner lining, a small brushed-brass paper clip on its edge; no text or address on it. 4:3 composition, subject centered, filling about half of the frame height, calm space around. Avoid: parchment, old paper, ink, fountain pen, inkwell, wax seal, map, floor plan drawing, ruler, coffee stain, handwriting, text, letters, numbers, logo, watermark, people, hands, screens, watercolor, illustration, sketch, film grain, lens flare, bokeh, vignette, dark corners. Important: the backdrop must be a clean seamless warm cream (#F1E2CD) with an even light tone, no dark vignette, no gray cast, and the whole subject must sit fully inside the frame with generous margin."
+  }
+]
